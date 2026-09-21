@@ -49,6 +49,8 @@
 :sparkles: 未経験から学べます！一緒に挑戦していきましょう :sparkles:
 <br><sub>No experience required — let's learn and grow together.</sub>
 
-[![Recruit](https://img.shields.io/badge/採用情報-JQIT-0A66C2?style=for-the-badge)](https://jqit.co.jp/recruit/engineer/)
+[![採用情報](https://img.shields.io/badge/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1-Recruit-0A66C2?style=for-the-badge)](https://recruitment.jqit.co.jp/)
+[![会社情報](https://img.shields.io/badge/%E4%BC%9A%E7%A4%BE%E6%83%85%E5%A0%B1-JQIT-24292F?style=for-the-badge)](https://www.jqit.co.jp/)
 [![note](https://img.shields.io/badge/note-jqit__itsaiyo-41C9B4?style=for-the-badge&logo=note&logoColor=white)](https://note.com/jqit_itsaiyo)
-[![Qiita](https://img.shields.io/badge/Qiita-jqit--yukiono-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/jqit-yukiono)
+[![Qiita Organization](https://img.shields.io/badge/Qiita-JQIT%20Organization-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/organizations/jqiit-co)
+[![Qiita](https://img.shields.io/badge/Qiita-@jqit--yukiono-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/jqit-yukiono)
