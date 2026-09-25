@@ -17,15 +17,15 @@
 ## ✍️ Qiita
 
 <!-- QIITA_STATS:START -->
-📝 **8** articles · 👍 **452** likes · 👀 **144,380** views
+📝 **10** articles · 👍 **555** likes · 👀 **145,937** views
 <!-- QIITA_STATS:END -->
 
 <!-- QIITA:START -->
-- [個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと](https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d) <sub>2026-07-25 · 👍 52</sub>
-- [個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」](https://qiita.com/jqit-yukiono/items/d33908602fd060f5e1d1) <sub>2026-07-20 · 👍 56</sub>
-- [Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話](https://qiita.com/jqit-yukiono/items/1ebffa98b9ff2dca7a9b) <sub>2026-07-20 · 👍 57</sub>
-- [動的グローバルIPでもセルフホストを守る ― JenkinsでCloudflare WAFの許可リストを自動追従させる](https://qiita.com/jqit-yukiono/items/a98eebcad49029304b4e) <sub>2026-06-29 · 👍 55</sub>
-- [JenkinsでGitHub Copilot CLIにPRを自動レビューさせる ― E2BIG・プロンプトインジェクション・トークン地獄との戦い](https://qiita.com/jqit-yukiono/items/21c54529410ba960c388) <sub>2026-06-29 · 👍 53</sub>
+- [JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI](https://qiita.com/jqit-yukiono/items/8675266928f574677d9e) <sub>2026-09-25 · 👍 50</sub>
+- [個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故](https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174) <sub>2026-09-25 · 👍 50</sub>
+- [個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと](https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d) <sub>2026-07-25 · 👍 53</sub>
+- [個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」](https://qiita.com/jqit-yukiono/items/d33908602fd060f5e1d1) <sub>2026-07-20 · 👍 57</sub>
+- [Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話](https://qiita.com/jqit-yukiono/items/1ebffa98b9ff2dca7a9b) <sub>2026-07-20 · 👍 58</sub>
 <!-- QIITA:END -->
 
 <sub>🤖 GitHub Actions で毎日自動更新 / Auto-updated daily by GitHub Actions</sub>
