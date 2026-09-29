@@ -17,15 +17,15 @@
 ## ✍️ Qiita
 
 <!-- QIITA_STATS:START -->
-📝 **10** articles · 👍 **556** likes · 👀 **158,221** views
+📝 **20** articles · 👍 **1,071** likes · 👀 **176,118** views
 <!-- QIITA_STATS:END -->
 
 <!-- QIITA:START -->
-- [JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI](https://qiita.com/jqit-yukiono/items/8675266928f574677d9e) <sub>2026-09-25 · 👍 50</sub>
-- [個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故](https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174) <sub>2026-09-25 · 👍 51</sub>
-- [個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと](https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d) <sub>2026-07-25 · 👍 53</sub>
-- [個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」](https://qiita.com/jqit-yukiono/items/d33908602fd060f5e1d1) <sub>2026-07-20 · 👍 57</sub>
-- [Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話](https://qiita.com/jqit-yukiono/items/1ebffa98b9ff2dca7a9b) <sub>2026-07-20 · 👍 58</sub>
+- [個人開発アプリ「MineWatch」の記事まとめ（随時更新）](https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a) <sub>2026-09-28 · 👍 51</sub>
+- [GitHub CodeQLが個人アカウントでは使えなかった話 ― 開発ツールを9本まとめて入れた棚卸しの顛末](https://qiita.com/jqit-yukiono/items/defe0f80ac4c354aeb7b) <sub>2026-09-28 · 👍 51</sub>
+- [同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由](https://qiita.com/jqit-yukiono/items/0a68cd4ab997e8c8213b) <sub>2026-09-28 · 👍 52</sub>
+- [Web/admin/iOSにE2Eテストを整備した話 ― 認証を迂回したら、次はテストコード自身の罠が待っていた](https://qiita.com/jqit-yukiono/items/0f7d52531f4370484101) <sub>2026-09-28 · 👍 52</sub>
+- [個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた](https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553) <sub>2026-09-28 · 👍 51</sub>
 <!-- QIITA:END -->
 
 <sub>🤖 GitHub Actions で毎日自動更新 / Auto-updated daily by GitHub Actions</sub>
