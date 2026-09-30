@@ -17,15 +17,15 @@
 ## ✍️ Qiita
 
 <!-- QIITA_STATS:START -->
-📝 **20** articles · 👍 **1,071** likes · 👀 **176,118** views
+📝 **21** articles · 👍 **124** likes · 👀 **272,702** views
 <!-- QIITA_STATS:END -->
 
 <!-- QIITA:START -->
-- [個人開発アプリ「MineWatch」の記事まとめ（随時更新）](https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a) <sub>2026-09-28 · 👍 51</sub>
-- [GitHub CodeQLが個人アカウントでは使えなかった話 ― 開発ツールを9本まとめて入れた棚卸しの顛末](https://qiita.com/jqit-yukiono/items/defe0f80ac4c354aeb7b) <sub>2026-09-28 · 👍 51</sub>
-- [同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由](https://qiita.com/jqit-yukiono/items/0a68cd4ab997e8c8213b) <sub>2026-09-28 · 👍 52</sub>
-- [Web/admin/iOSにE2Eテストを整備した話 ― 認証を迂回したら、次はテストコード自身の罠が待っていた](https://qiita.com/jqit-yukiono/items/0f7d52531f4370484101) <sub>2026-09-28 · 👍 52</sub>
-- [個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた](https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553) <sub>2026-09-28 · 👍 51</sub>
+- [個人開発アプリ「MineWatch」の記事まとめ（随時更新）](https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a) <sub>2026-09-28 · 👍 4</sub>
+- [GitHub CodeQLが個人アカウントでは使えなかった話 ― 開発ツールを9本まとめて入れた棚卸しの顛末](https://qiita.com/jqit-yukiono/items/defe0f80ac4c354aeb7b) <sub>2026-09-28 · 👍 4</sub>
+- [同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由](https://qiita.com/jqit-yukiono/items/0a68cd4ab997e8c8213b) <sub>2026-09-28 · 👍 7</sub>
+- [Web/admin/iOSにE2Eテストを整備した話 ― 認証を迂回したら、次はテストコード自身の罠が待っていた](https://qiita.com/jqit-yukiono/items/0f7d52531f4370484101) <sub>2026-09-28 · 👍 5</sub>
+- [個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた](https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553) <sub>2026-09-28 · 👍 6</sub>
 <!-- QIITA:END -->
 
 <sub>🤖 GitHub Actions で毎日自動更新 / Auto-updated daily by GitHub Actions</sub>
