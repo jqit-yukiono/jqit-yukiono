@@ -17,7 +17,7 @@
 ## ✍️ Qiita
 
 <!-- QIITA_STATS:START -->
-📝 **21** articles · 👍 **87** likes · 👀 **282,875** views
+📝 **21** articles · 👍 **87** likes · 👀 **283,304** views
 <!-- QIITA_STATS:END -->
 
 <!-- QIITA:START -->
