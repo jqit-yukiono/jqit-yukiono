@@ -20,7 +20,6 @@
 | --- | --- |
 | [n8n-i18n-japanese](https://github.com/jqit-yukiono/n8n-i18n-japanese) | n8n の UI 日本語化<br><sub>Japanese localization for n8n.</sub> |
 | [ansible-mac](https://github.com/jqit-yukiono/ansible-mac) | Ansible で Mac のセットアップを冪等に自動化<br><sub>Idempotent macOS setup with Ansible.</sub> |
-| [dotfiles](https://github.com/jqit-yukiono/dotfiles) | macOS / Linux 向けの dotfiles を symlink で管理<br><sub>Symlink-managed dotfiles for macOS and Linux.</sub> |
 | [minecraft-plugin-dev](https://github.com/jqit-yukiono/minecraft-plugin-dev) | Minecraft プラグイン開発テンプレート<br><sub>Template for Minecraft plugin development.</sub> |
 
 ## 🧰 Tech Stack
