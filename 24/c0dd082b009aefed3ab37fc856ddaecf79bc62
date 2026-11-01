@@ -1,0 +1,19 @@
+README.md
+  s_0e58cbbec07e19::t_d90b01f5891d0f 14,17,19-24,31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "24c0dd082b009aefed3ab37fc856ddaecf79bc62",
+  "prompts": {},
+  "sessions": {
+    "s_0e58cbbec07e19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e896e6f-aceb-478a-8fff-7f454c63688a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "jqit-yukiono <jqit.yuki.ono@gmail.com>"
+    }
+  }
+}
